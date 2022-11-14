@@ -34,6 +34,11 @@ background-color: rgb(255, 255, 255);
   height:50px;
   margin-top:0px ;
   padding-top: 0px;
+  width: auto;
+  height: 75px;
+  margin-top: 0px;
+  margin-left: 3px;
+  margin-right: 34px;
 }
 
 .fa fa-search{
@@ -44,7 +49,28 @@ background-color: rgb(255, 255, 255);
    }
 
 .tabledata{
-    background-color: rgb(179, 245, 255)
+    background-color: rgb(179, 245, 255);
+    margin-top: 20px;
+    margin-right: 2000px;
 }
+
+.recipe{
+    background-color: rgb(255, 187, 187);
+}
+
+.header2{
+    background-color: aquamarine;
+    width: auto;
+    height: 75px;
+    margin-top: 0px;
+}
+
+.box{
+    width: 200px;
+    float: left;
+    margin-left:790px;
+}
+
+
 
 
