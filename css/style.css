@@ -71,6 +71,72 @@ background-color: rgb(255, 255, 255);
     margin-left:790px;
 }
 
+.rightnav{
+    margin-left: 822px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+
+.block2{
+    background-color:rgba(0, 0, 0, 0.906) ;
+    height: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.table{
+    background-color: rgb(255, 243, 227) ;
+  width: 700px;
+  height:50px;
+  margin-top:0px ;
+  padding-top: 0px;
+  width: auto;
+  height: 75px;
+  margin-top: 0px;
+  margin-left: 3px;
+  margin-right: 34px;
+
+}
+
+.image{
+    float: left;
+    padding-top: 15px;
+    height: 80px;
+
+}
+
+.image2{
+  padding-bottom:100000px;
+}
 
 
-
+.cards{
+    display: flex; 
+    justify-content:space-between;
+    padding-left: 10px;
+    height: 400px;
+    margin: 50px;
+ }
+ 
+ .card{
+     flex: 0 0 350px;
+     background-repeat: no-repeat;
+     overflow: hidden;
+     height: 100%;
+     margin-top: 257px;
+ }
+ 
+ .card1{
+     overflow: hidden;
+     height: 100%;
+     z-index: 2;
+ }
+ 
+ .text{
+  color: black;
+  padding-top: 20px;
+  text-align: center;
+ }
